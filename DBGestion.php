@@ -1,4 +1,5 @@
 <?php 
+/* Prueba */
 class gestion{
 	private $conn;
         private $ch_rol;
